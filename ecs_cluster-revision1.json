@@ -81,7 +81,6 @@
         "operatingSystemFamily": "LINUX"
     },
     "registeredAt": "2026-02-10T05:07:33.977Z",
-    "registeredBy": "arn:aws:iam::068729155796:user/Mahendra",
-    "enableFaultInjection": false,
+    "registeredBy": "arn:aws:iam::068729155796:user/Mahendra"
     "tags": []
 }
